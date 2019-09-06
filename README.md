@@ -5,6 +5,7 @@
 https://gfycat.com/pastsphericalconure
 
 ## Instructions (en)
+1. Create a new project using the first person template
 1. Replace player gun with a new model of your choice (I suggest trying the Marketplace)
 1. Create a tunnel level
     1. Add a new big cube using the geometric brush
@@ -23,6 +24,7 @@ https://gfycat.com/pastsphericalconure
     1. Add a basic plane at the end of your tunnel and put your image on it
     
 ## Instructions (fr)
+1. Créer un nouveau projet en utilisant le first person template
 1. Remplacez le fusil du joueur par un nouveau modèle de votre choix (je vous suggère d'essayer le Marketplace)
 1. Créer un niveau de tunnel
     1. Ajouter un nouveau grand cube à l'aide du pinceau géométrique
